@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Breadboard-Power-Supply-rescue)(type Legacy)(uri "${KIPRJMOD}/Breadboard Power Supply-rescue.lib")(options "")(descr ""))
+)
