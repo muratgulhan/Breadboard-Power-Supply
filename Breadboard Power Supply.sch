@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:C_Polarized C2
+L Breadboard-Power-Supply-rescue:C_Polarized-Device C2
 U 1 1 612CFBC3
 P 5775 3725
 F 0 "C2" H 5893 3771 50  0000 L CNN
@@ -25,7 +25,7 @@ F 3 "~" H 5775 3725 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Polarized C1
+L Breadboard-Power-Supply-rescue:C_Polarized-Device C1
 U 1 1 612D6354
 P 4325 3725
 F 0 "C1" H 4443 3771 50  0000 L CNN

@@ -173,7 +173,7 @@ U 1 1 612E24D6
 P 1750 3725
 F 0 "J1" H 1807 4042 50  0000 C CNN
 F 1 "Barrel_Jack_Switch" H 1807 3951 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x28_P2.54mm_Vertical" H 1800 3685 50  0001 C CNN
+F 2 "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal" H 1800 3685 50  0001 C CNN
 F 3 "~" H 1800 3685 50  0001 C CNN
 	1    1750 3725
 	1    0    0    -1  
